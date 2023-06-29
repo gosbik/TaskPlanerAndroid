@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1060270625048",
+    "firebase_url": "https://ttplaner-837d4-default-rtdb.firebaseio.com",
+    "project_id": "ttplaner-837d4",
+    "storage_bucket": "ttplaner-837d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060270625048:android:d87e18e3dfb1cc451f0e6d",
+        "android_client_info": {
+          "package_name": "com.example.taskplanerrrrrr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060270625048-90h8jq38g8vc36mgtrdfv4d21gr8s3ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6FUz2TcxwfsmPAJ9Bzz7ohUiL4ppdOaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060270625048-90h8jq38g8vc36mgtrdfv4d21gr8s3ql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bgc_imput">#86DDFF</color>
+    <color name="bgc_btn">#00A9EC</color>
+    <color name="red_txt">#FF0000</color>
+    <color name="green_txt">#005613</color>
+</resources>
